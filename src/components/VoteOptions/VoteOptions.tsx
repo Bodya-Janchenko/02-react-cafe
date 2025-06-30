@@ -7,7 +7,7 @@ interface VoteOptionsProps {
   canReset: boolean;
 }
 
-export default function VoteOption({
+export default function VoteOptions({
   onVote,
   onReset,
   canReset,
